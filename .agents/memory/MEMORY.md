@@ -1,0 +1,1 @@
+- [Local task migration](supabase-task-migration.md) — import the old device list only once per device to avoid copying it into later accounts.
